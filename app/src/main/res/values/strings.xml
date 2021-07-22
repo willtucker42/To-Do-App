@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MVVMTodo</string>
+    <string name="add_a_task">Add a task</string>
+    <string name="task_priority">Task priority</string>
+    <string name="save_task">Save task</string>
+    <string name="task_name">Task Name</string>
+    <string name="important_task">Important task</string>
 </resources>
