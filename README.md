@@ -1,3 +1,11 @@
-# MVVM To-Do List App written in Kotlin with Flow and Architecture Components
+# MVVM To-Do List App written in Kotlin
 
-Task app based on course by Coding in Flow.
+Utilizes:  
+* **Dagger Hilt for dependency injection**
+* **Room (SQLite)**
+* **Jetpack DataStore**
+* **Flow (Coroutines)**
+* **View Binding**
+* **ViewModel + LiveData**
+
+Based on course by coding in flow
